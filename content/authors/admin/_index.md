@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guotian Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,22 +10,22 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Huazhong Agricultural University
+  url: "http://www.hzau.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Our lab focuses on plant microbe interactions and bioinformatics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Rice Disease Resistant
+- Bioinformatic
+- microbe
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Plant pathology
+    institution: Purdue University
+    year: 2008.09-2013.05
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
