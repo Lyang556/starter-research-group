@@ -26,12 +26,12 @@ education:
   - course: PhD in Plant pathology
     institution: Purdue University
     year: 2008.09-2013.05
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Plant Pathology, master
+    institution: Northwest A & F University
+    year: 2006.08-2008.07
+  - course: Biotechnology, Bachelor
+    institution: Northwest A & F University
+    year: 2002.08-2006.07
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'li4@mail.hzau.edu.cn'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=8Wr0kiIAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -68,6 +65,4 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Li Guotian, professor and doctoral supervisor of Huazhong Agricultural University. He has been engaged in the research of rice blast interaction for a long time. He has established a rice fast neutron mutant library with whole genome sequencing, and analyzed the mutation deeply by using a variety of bioinformatics methods. He has proved that using this mutant library can quickly clone rice disease resistance related genes, and clarified the role of Magnaporthe grisea mst50 protein in multiple MAPK signaling pathways. He has published more than 10 research papers in plant cell, molecular plant, environmental microbiology, current opinion in microbiology, rice and other academic journals.
