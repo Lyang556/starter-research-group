@@ -1,9 +1,9 @@
 ---
 title:Successfully published in the academic journal rice
-date: 2018-
+date: 2018-10
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Paper has been accepted.
 
 <!--more-->
 
